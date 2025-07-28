@@ -1,4 +1,4 @@
-# Human-Resourse-Manager-Prediction
+# EmployeeRetention
 Using this model we can predict the employee who is going to leave the company
 
 The purpose of this project is to predict the employee who leaves the company. It will help the company to make the right decision on the employee willing to leave.
